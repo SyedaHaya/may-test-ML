@@ -1,4 +1,4 @@
 streamlit
 plotly.express
 scikit-learn
-matplotlib.pyplot
+pandas
